@@ -28,6 +28,12 @@ gösteren bir **ısı haritası (heat map)** oluşturulur.
 
 ---
 
+## Görsel
+
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d49be6e7-dae5-4dc6-a647-3496679a33f2)
+
+---
+
 ## 📦 Gereksinimler
 
 - Python 3.9 veya üstü
@@ -37,3 +43,4 @@ Kurulum:
 
 ```bash
 pip install -r requirements.txt
+
