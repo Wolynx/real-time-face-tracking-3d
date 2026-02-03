@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Sanal ortam (varsa)
+venv/
+.env/
+
+# Editör / IDE dosyaları
+.vscode/
+.idea/
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
